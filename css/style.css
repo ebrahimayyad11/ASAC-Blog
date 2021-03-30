@@ -1,0 +1,52 @@
+main{
+    padding-top: 5px;
+}
+
+header{
+background-color: rgba(96, 96, 96,0.6);
+height: 50px;
+}
+
+
+footer{
+    background-color: rgba(96, 96, 96,0.6);
+    height: 50px;
+}
+
+#div1{
+    float: left;
+}
+
+#div2{
+    background-color: #000;
+    width: 50%;
+
+}
+
+div div{
+    background-color: rgba(96, 96, 96,0.6);
+}
+
+#p1{
+    text-align: center;
+    color: white;
+    display: inline-block;
+    position: relative;
+    left: 49%;
+}
+
+.p2{
+    display: inline-block;
+    position: relative;
+    left: 70%;
+    margin-right: 2%;
+}
+
+.p2 a {
+    color: white;
+}
+
+footer p{
+    display: inline-block;
+}
+
